@@ -1,4 +1,4 @@
-# 📜 Intermediate Code Generator & Simulator
+# Intermediate Code Generator & Simulator
 
 This repository contains an intermediate code generator and simulator for a specific Instruction Set Architecture (ISA). The code generator takes a specific input format and generates intermediate code, while the simulator executes the generated code.
 
